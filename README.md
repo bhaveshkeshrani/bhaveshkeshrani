@@ -16,6 +16,7 @@ Here's a list of things I currently keep myself busy with:
 <details>
   <summary>Some other facts about me</summary>
   <br>
+ 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&theme=nord)
   <br><br>
 </details>
