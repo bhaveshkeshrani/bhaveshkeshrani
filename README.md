@@ -1,5 +1,5 @@
 
-<img src="https://www.htmlmate.com/wp-content/themes/htmlmate/assets/images/banner_bg.svg" width="1140" height="200" alt="Bhavesh Kesharani">
+<img src="https://www.htmlmate.com/wp-content/themes/htmlmate/assets/images/banner_bg.svg" width="1140" height="156" alt="Bhavesh Kesharani">
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
