@@ -1,5 +1,5 @@
 
-<img src="https://www.condair.co.uk/assets/img/cta-wave-02.png" alt="Bhavesh Kesharani">
+<img src="https://www.condair.co.uk/assets/img/cta-wave-02.png" width="1140" height="156" alt="Bhavesh Kesharani">
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
