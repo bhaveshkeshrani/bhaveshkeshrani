@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 My Tech Stacks
 </h3>
 
+<p align="center">
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&theme=nord)
+</p>
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/bhaveshkeshrani/bhaveshkeshrani/master/assets/stack-hills.svg" alt="stacks"/>
 </h3>
@@ -37,13 +41,3 @@ My Tech Stacks
     <a href="https://mycodexpert.com/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 </p>
-
-<img src="https://www.condair.co.uk/assets/img/cta-wave-02.png" width="1140" height="156" alt="Bhavesh Kesharani">
-
-<details>
-  <summary>Some other facts about me</summary>
-  <br>
- 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&theme=nord)
-  <br><br>
-</details>
