@@ -1,27 +1,32 @@
 
-<img src="https://www.condair.co.uk/assets/img/cta-wave-02.png" width="1140" height="156" alt="Bhavesh Kesharani">
+<h3 align="center"> Hi there 👋</h3>
 
-I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
+<p align="center">
+I'm Bhavesh, a self-motivated tech enthusiast and full stack web developer.
+</p>
 
-Here's a list of things I currently keep myself busy with:
-
-- 👩🏻‍💻 Working as a lead software engineer over at **[Mycodexpert](https://mycodexpert.com/)**
-- ✍️ Writing tech blog posts over at **[trendsiksha](http://trendsiksha.blogspot.com/)**.
- 
- Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React, React Native, Vue, PHP( Laravel, Symfony, Codeigniter, CakePhp )
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on React, PHP all frameworks
-<details>
-  <summary>Some other facts about me</summary>
-  <br>
- 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&theme=nord)
-  <br><br>
-</details>
 
-<hr>
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/Mycodexpert">@Mycodexpert</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">React-App</a> | 💬 connect <a href="https://twitter.com/BKeshrani">@BKeshrani</a>
+</h4>
+<p  align="center">
+<a href="https://mycodexpert.com/">https://mycodexpert.com/</a>
+</p>
+
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/bhaveshkeshrani/bhaveshkeshrani/master/assets/stack-hills.svg" alt="stacks"/>
+</h3>
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
@@ -33,4 +38,12 @@ Here's a list of things I currently keep myself busy with:
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<img src="https://www.condair.co.uk/assets/img/cta-wave-02.png" width="1140" height="156" alt="Bhavesh Kesharani">
+
+<details>
+  <summary>Some other facts about me</summary>
+  <br>
+ 
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&theme=nord)
+  <br><br>
+</details>
