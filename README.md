@@ -4,14 +4,19 @@ I like experimenting with new technologies, building small projects, and occassi
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a software engineer over at **[Rounded](https://rounded.io)**
-- ☀️ Maintaining **[Letra](https://github.com/jayehernandez/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**.
-- 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
+- 👩🏻‍💻 Working as a software engineer over at **[Rounded](https://mycodexpert.com/)**
+- ☀️ Maintaining **[Letra](https://github.com/bhaveshkeshrani)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
+- ✍️ Writing tech blog posts over at **[trendsiksha](http://trendsiksha.blogspot.com/)**.
 
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
+  Here are some ideas to get you started:
+
+- 🔭 I’m currently working on React, React Native, Vue, PHP( Laravel, Symfony, Codeigniter, CakePhp )
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on React, PHP all frameworks
+
   <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
 
   - I post random photos and trip snippets at **[VSCO](https://vsco.co/jayehernandez)**. (Look at the Journal's tab!)
@@ -19,7 +24,7 @@ Here's a list of things I currently keep myself busy with:
   - I absolutely adore Eevee, the best Pokemon.
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true&theme=nord)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&theme=nord)
   <br><br>
 </details>
 
@@ -28,10 +33,10 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://twitter.com/BKeshrani" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/bhavesh-kesharani/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:bhaveshkeshrani10@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://mycodexpert.com/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 
   <p align="center">
