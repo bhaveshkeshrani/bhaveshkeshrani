@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 My Tech Stacks
 </h3>
 
-<p align="center">
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&theme=nord)
-</p>
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/bhaveshkeshrani/bhaveshkeshrani/master/assets/stack-hills.svg" alt="stacks"/>
 </h3>
