@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on React, PHP all frameworks
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/Mycodexpert">@Mycodexpert</a> | 🌱 building a <a href="https://github.com/bhaveshkeshrani">Different App's</a> | 💬 connect <a href="https://twitter.com/BKeshrani">@BKeshrani</a>
+💻 Full stack developer <a href="https://github.com/Mycodexpert">@Mycodexpert</a> | 🌱 building a <a href="https://github.com/bhaveshkeshrani">Different App's</a> | 💬 connect <a href="https://twitter.com/BKeshrani">@BKeshrani</a>
 </h4>
 <p  align="center">
 <a href="https://mycodexpert.com/">https://mycodexpert.com/</a>
