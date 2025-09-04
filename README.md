@@ -119,14 +119,10 @@ Your support helps me dedicate more time to developing high-quality, impactful p
 
 ## 📊 GitHub Stats
 
-[![bhaveshkeshrani's Github Stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-dark-mode-only)
-[![bhaveshkeshrani's Github Stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-light-mode-only)
+![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&theme=tokyonight)
 
-[![bhaveshkeshrani's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkeshrani&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-dark-mode-only)
-[![bhaveshkeshrani's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkeshrani&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-light-mode-only)
+[![Bhavesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaveshkeshrani&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=bhaveshkeshrani&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-dark-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=bhaveshkeshrani&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-light-mode-only)
 
 [github]: https://github.com
 [portfolio]: https://bhaveshkeshrani.github.io/
