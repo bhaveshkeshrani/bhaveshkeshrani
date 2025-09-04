@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [BHAVESH KESHRANI!][portfolio]
 
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=bhaveshkeshrani&column=3&row=2&theme=onedark&no-bg=true)][portfolio]
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=bhaveshkeshrani&column=3&margin-w=15&margin-h=15)][portfolio]
 
 ## 💼 About Me  
 
@@ -31,10 +31,31 @@ If you're here, don't forget to [follow me](https://github.com/bhaveshkeshrani) 
 
 ## 💼 Work Experience
 
-* **Software Development Engineer** at [StarApps Studio](https://www.starapps.studio).
-* **Full Stack Developer** at [Merito](https://merito.ai).
-* **Full Stack Development Intern** at [TECHOX LLP](https://techox.co.in).
-* **Web Development Intern** at [Career Corner Education](https://career-corner.in).
+### 🚀 Engineering Manager / Team Lead — [Mocha Technologies](https://www.mochatechnologies.com)  
+- Spearheaded the **architecture and delivery of Multi-tenant SaaS suite** (Accounting, HRMS, Property Management, e-Signature, Portfolio).  
+- Designed secure APIs (HMAC, OAuth2, API Keys), reusable tenant modules, and domain-based routing for **white-labeled deployments**.  
+- Built CI/CD pipelines using **Docker & GitHub Actions**, ensuring **zero-downtime releases**.  
+- Mentored and managed a **25+ member team** across frontend, backend, and DevOps, improving delivery velocity by **35%**.  
+- Scaled the platform to **3K+ global users** with <3s API response time.  
+---
+### 💳 Senior Software Engineer - [Taurus LLC](https://www.thinktaurus.com)  
+- Modernized a **mission-critical fintech SaaS platform** for insurance & banking clients.  
+- Delivered modules like **General Ledger, Account Center, Investment Center, Print Check, and Check Register** with audit trails and recurring entries.  
+- Implemented **ACH processing, Positive Pay integration**, and automated carrier data feeds (Farmers, Foremost).  
+- Migrated legacy frontend to **React/Next.js**, improving maintainability and UX.  
+- Optimized MySQL queries + Redis caching, boosting performance of reports and transactions by **40%**.  
+---
+### 📦 Software Engineer - [Aloha Technology](https://www.alohatechnology.com)  
+- Built **logistics tracking (ETA, fleet management)** and dispatch systems using Laravel + MySQL.  
+- Developed **custom WordPress modules** (ticket booking, seat mapping, payments) and optimized **Magento checkout flows**.  
+- Improved SQL query performance and frontend rendering, achieving **25% faster response times** across workflows.  
+- Delivered **tailored eCommerce & logistics solutions** directly for client teams.  
+---
+### 🛠️ Intern Software Engineer - [Netsofters](https://netsofters.com)  
+- Contributed to **client-focused PHP/Laravel projects**, implementing backend APIs and CRUD modules.  
+- Gained experience in **database design, REST APIs, MVC frameworks, and debugging**.  
+- Supported senior engineers in testing and reviews, building a strong foundation in **full-stack delivery**.  
+- Learned real-world project workflows, agile teamwork, and **client-driven requirements**.  
 
 ## 💻 Skills & Technologies
 
@@ -93,25 +114,23 @@ Your support helps me dedicate more time to developing high-quality, impactful p
 
 * [![Linkedin: bhavesh-kesharani](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/bhavesh-kesharani)][linkedin]
 * [![Instagram: bhavesh-kesharani](https://img.shields.io/badge/bhaveshkeshrani-blue?style=social&logo=Instagram&link=[https://www.instagram.com/nixrajput](https://www.instagram.com/bhaveshpatel_0808/))][instagram]
-* [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)][twitter]
-* [![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-* [![Gmail: nkr.nikhil.nkr](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+* [![Twitter: BKeshrani](https://img.shields.io/twitter/follow/BKeshrani?style=social)][twitter]
+* [![Gmail: bhaveshkeshrani](https://img.shields.io/badge/bhaveshkeshrani10@gmail.com-blue?style=social&logo=Gmail&link=mailto:bhaveshkeshrani10@gmail.com)][gmail]
 
 ## 📊 GitHub Stats
 
-[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
-[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
+[![bhaveshkeshrani's Github Stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-dark-mode-only)
+[![bhaveshkeshrani's Github Stats](https://github-readme-stats.vercel.app/api?username=bhaveshkeshrani&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-light-mode-only)
 
-[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
-[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
+[![bhaveshkeshrani's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkeshrani&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-dark-mode-only)
+[![bhaveshkeshrani's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkeshrani&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=nixrajput&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=bhaveshkeshrani&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=bhaveshkeshrani&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/bhaveshkeshrani/github-readme-stats#gh-light-mode-only)
 
 [github]: https://github.com
-[portfolio]: https://nixrajput.com
-[twitter]: https://facebook.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://www.linkedin.com/in/nixrajput
-[gmail]: mailto:nkr.nikhil.nkr@gmail.com
-[telegram]: https://telegram.me/nixrajput
+[portfolio]: https://bhaveshkeshrani.github.io/
+[twitter]: https://x.com/BKeshrani
+[instagram]: https://www.instagram.com/nixrajput](https://www.instagram.com/bhaveshpatel_0808
+[linkedin]: https://www.linkedin.com/in/bhavesh-kesharani
+[gmail]: mailto:bhaveshkeshrani10@gmail.com
