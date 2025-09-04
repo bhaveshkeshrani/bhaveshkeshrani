@@ -112,7 +112,7 @@ Your support helps me dedicate more time to developing high-quality, impactful p
 
 ## 🌐 Connect with Me
 
-* [![Linkedin: bhavesh-kesharani](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/bhavesh-kesharani)][linkedin]
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhaveshkeshrani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavesh-kesharani)
 * [![Instagram: bhavesh-kesharani](https://img.shields.io/badge/bhaveshkeshrani-blue?style=social&logo=Instagram&link=[https://www.instagram.com/nixrajput](https://www.instagram.com/bhaveshpatel_0808/))][instagram]
 * [![Twitter: BKeshrani](https://img.shields.io/twitter/follow/BKeshrani?style=social)][twitter]
 * [![Gmail: bhaveshkeshrani](https://img.shields.io/badge/bhaveshkeshrani10@gmail.com-blue?style=social&logo=Gmail&link=mailto:bhaveshkeshrani10@gmail.com)][gmail]
@@ -131,6 +131,6 @@ Your support helps me dedicate more time to developing high-quality, impactful p
 [github]: https://github.com
 [portfolio]: https://bhaveshkeshrani.github.io/
 [twitter]: https://x.com/BKeshrani
-[instagram]: https://www.instagram.com/nixrajput](https://www.instagram.com/bhaveshpatel_0808
+[instagram]: https://www.instagram.com/bhaveshpatel_0808
 [linkedin]: https://www.linkedin.com/in/bhavesh-kesharani
 [gmail]: mailto:bhaveshkeshrani10@gmail.com
